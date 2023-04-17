@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Colors</string>
+    <string name="create_rgb">Create RGB Color</string>
+    <string name="display">Created color display panel</string>
+</resources>
